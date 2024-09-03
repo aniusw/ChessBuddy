@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: ChessBuddy Homepage
+description: ChessBuddy tries to be your chess buddy and improve your chess.
 theme: just-the-docs
 
-url: https://aniusw.github.io/chessbudy
+url: https://aniusw.github.io/chessbuddy
 
 aux_links:
-  Template Repository: https://github.com/aniusw/chessbudy
+  Template Repository: https://github.com/aniusw/chessbuddy
