@@ -16,7 +16,7 @@ Graphics: OpenGL 3.3 or newer.
 
 ## Download ChessBuddy
 
-| Platform | Binary       |
-|:---------|:-------------|
-| Windows |<span class="fs-5">[zip](http://aniusw.duckdns.org/downloads/ChessBuddy-windows-0.3.1.zip){: .btn .btn-blue .mr-4}</span>|
-|MacOS (Apple Silicon)|<span class="fs-5">[tar](http://aniusw.duckdns.org/downloads/ChessBuddy-macos-0.3.1.tar){: .btn .btn-purple .mr-4} [dmg](http://aniusw.duckdns.org/downloads/ChessBuddy-macos-0.3.1.dmg){: .btn .btn-green .mr-4}</span>|
+| Platform | aniusw.duckdns.org       | Google Drive |
+|:---------|:-------------|:-------------|
+| Windows |<span class="fs-5">[zip](http://18.224.180.84/downloads/ChessBuddy-windows-0.3.1.zip){: .btn .btn-blue .mr-4}</span>|<span class="fs-5">[zip](https://drive.google.com/file/d/1eRrrclB1X3gIoMP1uhuF-uq4WITAGhcm/view?usp=drive_link){: .btn .btn-blue .mr-4}</span>|
+|MacOS (Apple Silicon)|<span class="fs-5">[tar](http://18.224.180.84/downloads/ChessBuddy-macos-0.3.1.tar){: .btn .btn-purple .mr-4} [dmg](http://18.224.180.84/downloads/ChessBuddy-macos-0.3.1.dmg){: .btn .btn-green .mr-4}</span>|<span class="fs-5">[tar](https://drive.google.com/file/d/1e7N_JxAMM7b6eVwM2rM5bS6rD__PZdEM/view?usp=drive_link){: .btn .btn-purple .mr-4} [dmg](https://drive.google.com/file/d/14VY21__O5PinyLAePHuzjBt2VdyI8zCv/view?usp=drive_link){: .btn .btn-green .mr-4}</span>|
