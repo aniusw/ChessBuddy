@@ -9,6 +9,9 @@ nav_order: 1
 
 ChessBuddy is your ultimate chess companion! ChessBuddy not only opens PGN files and automatically downloads the Stockfish engine, but also captures and analyzes your chess board in real-time. Its unique feature tracks chess games on your screen instantly, providing live engine evaluations and detailed analysis. Plus, you can easily customize your experience by changing the board and pieces with just a few clicks from the menu. Enhance your chess journey with ChessBuddy’s seamless integration and intuitive features!
 
+## Capture Game Demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YH-P30HW_sA?si=LV3ezHoOM5_dlIPu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## System Requirements
 
 OS: Windows, MacOS<br>
