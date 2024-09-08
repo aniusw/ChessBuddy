@@ -1,8 +1,10 @@
-title: ChessBuddy Homepage
-description: ChessBuddy tries to be your chess buddy and improve your chess.
+title: ChessBuddy
+description: ChessBuddy - Your Ultimate Chess Companion
 theme: just-the-docs
 
 url: https://aniusw.github.io/chessbuddy
 
 aux_links:
-  Template Repository: https://github.com/aniusw/chessbuddy
+  Site Repository: https://github.com/aniusw/chessbuddy
+
+# logo: "/chessbuddy.png"
