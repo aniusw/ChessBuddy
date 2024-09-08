@@ -18,5 +18,5 @@ Graphics: OpenGL 3.3 or newer.
 
 | Platform | Binary       |
 |:---------|:-------------|
-| Windows |<span class="fs-5">[zip](https://aniusw.duckdns.org/downloads/ChessBuddy-windows-0.3.1.zip){: .btn .btn-blue .mr-4}</span>|
-|MacOS (Apple Silicon)|<span class="fs-5">[tar](https://aniusw.duckdns.org/downloads/ChessBuddy-macos-0.3.1.tar){: .btn .btn-purple .mr-4} [dmg](https://aniusw.duckdns.org/downloads/ChessBuddy-macos-0.3.1.dmg){: .btn .btn-green .mr-4}</span>|
+| Windows |<span class="fs-5">[zip](http://aniusw.duckdns.org/downloads/ChessBuddy-windows-0.3.1.zip){: .btn .btn-blue .mr-4}</span>|
+|MacOS (Apple Silicon)|<span class="fs-5">[tar](http://aniusw.duckdns.org/downloads/ChessBuddy-macos-0.3.1.tar){: .btn .btn-purple .mr-4} [dmg](http://aniusw.duckdns.org/downloads/ChessBuddy-macos-0.3.1.dmg){: .btn .btn-green .mr-4}</span>|
